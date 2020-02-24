@@ -1,4 +1,0 @@
-deploy:
-type: git
-repository: https://github.com/hxf236386915/gitbook-wiki
-branch: master
